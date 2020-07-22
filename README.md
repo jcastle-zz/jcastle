@@ -1,3 +1,5 @@
+![README banner](banner.png)
+
 ### Hi there 👋
 
 <!--
