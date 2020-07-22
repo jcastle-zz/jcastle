@@ -4,7 +4,7 @@
 
 **I am currently working on** one of [Code.gov's 16 repos](https://github.com/GSA/code-gov), a class at [FeM](https://frontendmasters.com/) or [Wes Bos](https://wesbos.com/) (and planning to add [Kent Dodd's Testing JS](https://testingjavascript.com/) soon), or a [personal coding project](https://github.com/jcastle/365DaysOfCode).  
 <br>
-**I am currently learning/refreshing** on javascript or frontend engineering config (e.g., automated testing, CI/CD).  
+**I am currently learning/refreshing** on javascript and frontend engineering config (e.g., automated testing, CI/CD).  
 <br>
 **Ask me about** open source software (OSS) coding practices, [federal open source policies and practices](https://github.com/jcastle/dissertation_publishingOSS), frontend engineering topics (i.e., coding, config, testing), or academic pursuits and navigation (I was in school for 32 years, elementary to PhD completion, eeks!).  
 <br>
