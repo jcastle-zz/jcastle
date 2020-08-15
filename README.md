@@ -2,7 +2,7 @@
 
 # Hi! 👋
 
-**I am currently working on** one of [Code.gov's 14 repos](https://github.com/GSA/code-gov), a class at [FeM](https://frontendmasters.com/). [Wes Bos](https://wesbos.com/), and [Kent Dodd](https://kentcdodds.com/courses), or a [personal coding project](https://github.com/jcastle/365DaysOfCode).  
+**I am currently working on** one of [Code.gov's 14 repos](https://github.com/GSA/code-gov), a class by [FeM](https://frontendmasters.com/), [Wes Bos](https://wesbos.com/), or [Kent C. Dodd](https://kentcdodds.com/courses), or a [personal coding project](https://github.com/jcastle/365DaysOfCode).  
 <br>
 **I am currently learning/refreshing** on javascript and frontend engineering config (e.g., automated testing, CI/CD).  
 <br>
