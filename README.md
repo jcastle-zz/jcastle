@@ -6,7 +6,7 @@
 <br>
 **I am currently learning/refreshing** on javascript and frontend engineering config (e.g., automated testing, CI/CD).  
 <br>
-**Ask me about** open source software (OSS) coding practices, [federal open source policies and practices](https://github.com/jcastle/dissertation_publishingOSS), frontend engineering topics (i.e., coding, config, testing), or academic pursuits and navigation (I was in school for 32 years, elementary to PhD completion, eeks!).  
+**Ask me about** open source software (OSS) coding practices, [federal open source policies and practices](https://github.com/jcastle/dissertation_publishingOSS), frontend engineering topics (i.e., coding, config, testing), or academic pursuits and navigation (I was in school for 32 years, elementary to PhD, eeks!).  
 <br>
 **You can reach me** by [email](josephrcastle@gmail.com), [Twitter](https://twitter.com/jrcastle_vt), or [LinkedIn](https://www.linkedin.com/in/jrcastle/).  
 <br>
