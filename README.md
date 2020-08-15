@@ -8,6 +8,6 @@
 <br>
 **Ask me about** open source software (OSS) coding practices, [federal open source policies and practices](https://github.com/jcastle/dissertation_publishingOSS), frontend engineering topics (i.e., coding, config, testing), or academic pursuits and navigation (I was in school for 32 years, elementary to PhD, eeks!).  
 <br>
-**You can reach me** by [email](josephrcastle@gmail.com), [Twitter](https://twitter.com/jrcastle_vt), or [LinkedIn](https://www.linkedin.com/in/jrcastle/).  
+**You can reach me** by [email](josephrcastle@gmail.com), [Twitter](https://twitter.com/jrcastle_vt), and [LinkedIn](https://www.linkedin.com/in/jrcastle/).  
 <br>
 **Fun facts** include having an awesome family, serving in the US Army and being deployed, working at the White House, obtaining a PhD, and often training and racing in an ultra-endurance mountain bike or running event ([resume](https://github.com/jcastle/dissertation_publishingOSS/blob/master/Resume2.pdf), just in case 😉 ).
