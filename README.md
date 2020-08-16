@@ -10,4 +10,4 @@
 <br>
 **You can reach me** by [email](josephrcastle@gmail.com), [Twitter](https://twitter.com/jrcastle_vt), and [LinkedIn](https://www.linkedin.com/in/jrcastle/).  
 <br>
-**Fun facts** include having an awesome family, serving in the US Army and being deployed, working at the White House, obtaining a PhD, and often training and racing in an ultra-endurance mountain bike or running event ([resume](https://github.com/jcastle/dissertation_publishingOSS/blob/master/Resume2.pdf), just in case 😉 ).
+**Fun facts** include having an awesome family, serving in the US Army and being deployed, working at the White House (Obama Administration), obtaining a PhD, and often training and racing in an ultra-endurance mountain bike or running event ([resume](https://github.com/jcastle/dissertation_publishingOSS/blob/master/Resume2.pdf), just in case 😉 ).
