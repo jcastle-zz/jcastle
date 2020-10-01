@@ -1,4 +1,4 @@
-![README banner](https://github.com/jcastle/jcastle/blob/master/banner.png)
+![README banner](https://github.com/jcastle/jcastle/blob/master/banner2.png)
 
 # Hi! 👋
 
