@@ -2,9 +2,9 @@
 
 # Hi! 👋
 
-**I am currently working on** one of [Code.gov's 14 repos](https://github.com/GSA/code-gov), a class by [FeM](https://frontendmasters.com/), [Wes Bos](https://wesbos.com/), or [Kent C. Dodd](https://kentcdodds.com/courses), or a [personal coding project](https://github.com/jcastle/365DaysOfCode).  
+**I am currently working on** one of [Code.gov's 15 repos](https://github.com/GSA/code-gov), a class by [FeM](https://frontendmasters.com/), [Wes Bos](https://wesbos.com/), or a [personal coding project](https://github.com/jcastle/365DaysOfCode).  
 <br>
-**I am currently learning/refreshing** on javascript and frontend engineering config (e.g., automated testing, CI/CD).  
+**I am currently learning/refreshing** on frontend development (e.g., HTML, CSS, JS) and engineering config (e.g., automated testing, CI/CD).  
 <br>
 **Ask me about** open source software (OSS) coding practices, [federal open source policies and practices](https://github.com/jcastle/dissertation_publishingOSS), frontend engineering topics (i.e., coding, config, testing), or academic pursuits and navigation (I was in school for 32 years, elementary to PhD, eeks!).  
 <br>
